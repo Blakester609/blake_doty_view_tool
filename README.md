@@ -19,8 +19,9 @@ Or install it yourself as:
     $ gem install blake_doty_view_tool
 
 ## Usage
-
-TODO: Write usage instructions here
+```ruby
+BlakeDotyViewTool::Renderer.copyright 'Blake Doty', 'All rights reserved'
+```
 
 ## Development
 
