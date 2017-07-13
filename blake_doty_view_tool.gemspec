@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Jordan Hudgens"]
   spec.email         = ["jordan@devcamp.com"]
 
-  spec.summary       = %q{Allow you to put simple copyright data on the page with your name.}
-  spec.description   = %q{Allow you to generate HTML data for the copyright year with your name and/or website.}
+  spec.summary       = %q{Allows you to put simple copyright data on the page with your name.}
+  spec.description   = %q{Allows you to generate HTML data for the copyright year with your name and/or website.}
   spec.homepage      = "https://devcamp.com"
   spec.license       = "MIT"
 
